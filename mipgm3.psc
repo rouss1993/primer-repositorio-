@@ -5,5 +5,8 @@ Proceso prog4
 	Para i<-0 hasta 9 Hacer
 		vector[i] <-Aleatorio(1,10);
 	FinPara
-	
+	Para i<-0 hasta 9 Hacer
+		Escribir vector[1]
+		
+	FinPara
 FinProceso
